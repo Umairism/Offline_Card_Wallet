@@ -2,7 +2,7 @@
 
 [![React Native](https://img.shields.io/badge/React%20Native-0.73.0-blue.svg)](https://reactnative.dev/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Demo](https://img.shields.io/badge/Status-Demo%20App-orange.svg)](https://github.com/yourusername/offline-card-wallet)
+[![Demo](https://img.shields.io/badge/Status-Demo%20App-orange.svg)](https://github.com/umairism/Offline_Card_Wallet)
 
 > **⚠️ DEMO APPLICATION - FOR LEARNING PURPOSES ONLY**
 > 
@@ -73,7 +73,7 @@ Offline Card Wallet is a **demo mobile application** built with React Native to 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/offline-card-wallet.git
+   git clone https://github.com/umairism/Offline_Card_Wallet.git
    cd offline-card-wallet
    ```
 
