@@ -1,0 +1,344 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/whistler/Desktop/Github/Offline_Card_Wallet/android/app/src/main/AndroidManifest.xml:1:1-25:12
+MERGED from /home/whistler/Desktop/Github/Offline_Card_Wallet/android/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /home/whistler/Desktop/Github/Offline_Card_Wallet/android/app/src/debug/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/whistler/Desktop/Github/Offline_Card_Wallet/android/app/src/debug/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/whistler/Desktop/Github/Offline_Card_Wallet/android/app/src/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:flipper-integration:0.73.0] /home/whistler/.gradle/caches/transforms-3/d7b41176eb9192e966aa89f730c9211e/transformed/jetified-flipper-integration-0.73.0-debug/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.react:react-android:0.73.0] /home/whistler/.gradle/caches/transforms-3/03faa2a4590e19618d3d28b49773048c/transformed/jetified-react-android-0.73.0-debug/AndroidManifest.xml:2:1-24:12
+MERGED from [com.facebook.fresco:flipper-fresco-plugin:3.1.3] /home/whistler/.gradle/caches/transforms-3/2fb72019e7a4b8682d73880c36bebdf1/transformed/jetified-flipper-fresco-plugin-3.1.3/AndroidManifest.xml:8:1-13:12
+MERGED from [com.facebook.fresco:flipper:3.1.3] /home/whistler/.gradle/caches/transforms-3/0b0f535d6696fbd9cb99b66f79662da9/transformed/jetified-flipper-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:fresco:3.1.3] /home/whistler/.gradle/caches/transforms-3/da8b30e5a8fa9d3eea0929efbd0947f4/transformed/jetified-fresco-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:3.1.3] /home/whistler/.gradle/caches/transforms-3/6d60aff4839ce560716e524280f52708/transformed/jetified-imagepipeline-okhttp3-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:drawee:3.1.3] /home/whistler/.gradle/caches/transforms-3/2f39c9934c75cb634ef30baba640678c/transformed/jetified-drawee-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:nativeimagefilters:3.1.3] /home/whistler/.gradle/caches/transforms-3/a30e69ae0e95b3eb9b9642a653aa6f9a/transformed/jetified-nativeimagefilters-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:memory-type-native:3.1.3] /home/whistler/.gradle/caches/transforms-3/37a1b3fc5f1eae40f9168033c214248a/transformed/jetified-memory-type-native-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:memory-type-java:3.1.3] /home/whistler/.gradle/caches/transforms-3/0475bb79bcd7f407085bdb5bb43ff8b9/transformed/jetified-memory-type-java-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:imagepipeline-native:3.1.3] /home/whistler/.gradle/caches/transforms-3/3aa7352e6e19b2863a85b240a0037b03/transformed/jetified-imagepipeline-native-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:3.1.3] /home/whistler/.gradle/caches/transforms-3/6197422ed94b2c39d52f73b2b28f990b/transformed/jetified-memory-type-ashmem-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:imagepipeline:3.1.3] /home/whistler/.gradle/caches/transforms-3/aac6fc59eb69214b10ab9701c39e4f60/transformed/jetified-imagepipeline-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:3.1.3] /home/whistler/.gradle/caches/transforms-3/bedd1c2de22d15f38017c3b70ffe1154/transformed/jetified-nativeimagetranscoder-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:imagepipeline-base:3.1.3] /home/whistler/.gradle/caches/transforms-3/3b217f595e34fe29b8602eee9ad2af10/transformed/jetified-imagepipeline-base-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:middleware:3.1.3] /home/whistler/.gradle/caches/transforms-3/0a1be84a003e06ef18db9baf96e7e682/transformed/jetified-middleware-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:ui-common:3.1.3] /home/whistler/.gradle/caches/transforms-3/ced4076978eb7faf434d7b2f86e5c2c1/transformed/jetified-ui-common-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:soloader:3.1.3] /home/whistler/.gradle/caches/transforms-3/f484e0b9ba576f2df450edaf4fac0f0f/transformed/jetified-soloader-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:fbcore:3.1.3] /home/whistler/.gradle/caches/transforms-3/0b3a013bc93f27bf12c8b3ddfa6013b2/transformed/jetified-fbcore-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.201.0] /home/whistler/.gradle/caches/transforms-3/dca29ad805e0d9e74497f9afc6e21b7c/transformed/jetified-flipper-network-plugin-0.201.0/AndroidManifest.xml:8:1-13:12
+MERGED from [com.facebook.flipper:flipper:0.201.0] /home/whistler/.gradle/caches/transforms-3/8c18eaf9acdf8531a70c75438756cdea/transformed/jetified-flipper-0.201.0/AndroidManifest.xml:8:1-16:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/whistler/.gradle/caches/transforms-3/9f8a700ed4ebec175117c85f47975d1e/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.stetho:stetho:1.6.0] /home/whistler/.gradle/caches/transforms-3/6c861e65f2b0b0416382f2c05a4c8a93/transformed/jetified-stetho-1.6.0/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/whistler/.gradle/caches/transforms-3/ba08c597162db49f49e3d1065f543c9d/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.3.6] /home/whistler/.gradle/caches/transforms-3/c42c8675cbfcc87371889622ed3ed2dc/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] /home/whistler/.gradle/caches/transforms-3/ff7ef3c4ac2a8412542a0e6bbe58c7cd/transformed/jetified-activity-1.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/whistler/.gradle/caches/transforms-3/086a3af4e4f4047c50b424c1c5bf93f3/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /home/whistler/.gradle/caches/transforms-3/d5031234f46143d5d8ca43480166bc30/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/whistler/.gradle/caches/transforms-3/af183c969f10450a61dbf0ec48a4b914/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.12.0] /home/whistler/.gradle/caches/transforms-3/dcf58e3be79b47949a234a0de1c388fa/transformed/jetified-core-ktx-1.12.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.autofill:autofill:1.1.0] /home/whistler/.gradle/caches/transforms-3/8dda1d601df2c028398c71e097ae45d3/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /home/whistler/.gradle/caches/transforms-3/7059b4731f793b605ce145f35a576a4e/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/whistler/.gradle/caches/transforms-3/22bc0171d5ae6e5f1a3a1f7356187e22/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/whistler/.gradle/caches/transforms-3/c33087c8dd19c8f10596dfee15edcb86/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/whistler/.gradle/caches/transforms-3/8e5fbcaede1bd6615519659941a6cc0c/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/whistler/.gradle/caches/transforms-3/4c7903c5ec9502a299e9f88cf8ccc2ec/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/whistler/.gradle/caches/transforms-3/8d0ced2806473cef015c469df06f6aa6/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/whistler/.gradle/caches/transforms-3/51ab56574e57b719bcfe6df7bea93e7a/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/whistler/.gradle/caches/transforms-3/8205963242c9453fe153d2b96438837d/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.12.0] /home/whistler/.gradle/caches/transforms-3/c98196d06080423d44b7c8ee4283f478/transformed/core-1.12.0/AndroidManifest.xml:17:1-30:12
+MERGED from [com.facebook.react:hermes-android:0.73.0] /home/whistler/.gradle/caches/transforms-3/913293d54675b3a5c3849184f5e9c591/transformed/jetified-hermes-android-0.73.0-debug/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/whistler/.gradle/caches/transforms-3/6a9ac9ca1ad9941560ec18570b1acb42/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /home/whistler/.gradle/caches/transforms-3/5d5878dc56010d6ca131ea793237f0e1/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/whistler/.gradle/caches/transforms-3/5a35d049f464e77dacca5b20dbd9e312/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/whistler/.gradle/caches/transforms-3/fdb4a608a1f4a8def02341e8bd08ec90/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.1.0] /home/whistler/.gradle/caches/transforms-3/f617788c864438c3d52006d5cea894a6/transformed/jetified-tracing-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/whistler/.gradle/caches/transforms-3/26095af3067035137e7ece2b3cffe3ad/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/whistler/.gradle/caches/transforms-3/2287b5d2f6576c27372516b4f974d36a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /home/whistler/.gradle/caches/transforms-3/efc06b8c7db3bb25f02bb546006b1b38/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/whistler/.gradle/caches/transforms-3/5e5763ae3ac10334ff0810cd7da403a5/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] /home/whistler/.gradle/caches/transforms-3/173d140ee485538e531e8f8e273d53c8/transformed/sqlite-framework-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/whistler/.gradle/caches/transforms-3/4b4b952f9c20adfb89d29ca04693ee54/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /home/whistler/.gradle/caches/transforms-3/cb9c5e81b9d14c0475703f0f6a6b82cc/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/whistler/.gradle/caches/transforms-3/019a334a56027351c11f279524856d90/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.2.0] /home/whistler/.gradle/caches/transforms-3/1e7ba3e13392d187787ed155384c6be8/transformed/sqlite-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fbjni:fbjni:0.5.1] /home/whistler/.gradle/caches/transforms-3/5da72c8d4c35c1eb96033e546e2c667f/transformed/jetified-fbjni-0.5.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.soloader:soloader:0.10.5] /home/whistler/.gradle/caches/transforms-3/fd74371e7633c57895c1e6c4c217351b/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.ndk.thirdparty:openssl:1.1.1l-beta-1] /home/whistler/.gradle/caches/transforms-3/a25417b5b0a73e66eec7e2885102393f/transformed/jetified-openssl-1.1.1l-beta-1/AndroidManifest.xml:1:1-3:12
+	package
+		INJECTED from /home/whistler/Desktop/Github/Offline_Card_Wallet/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/whistler/Desktop/Github/Offline_Card_Wallet/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/whistler/Desktop/Github/Offline_Card_Wallet/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/whistler/Desktop/Github/Offline_Card_Wallet/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/whistler/Desktop/Github/Offline_Card_Wallet/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/whistler/Desktop/Github/Offline_Card_Wallet/android/app/src/main/AndroidManifest.xml:3:5-67
+MERGED from [com.facebook.flipper:flipper:0.201.0] /home/whistler/.gradle/caches/transforms-3/8c18eaf9acdf8531a70c75438756cdea/transformed/jetified-flipper-0.201.0/AndroidManifest.xml:13:5-67
+MERGED from [com.facebook.flipper:flipper:0.201.0] /home/whistler/.gradle/caches/transforms-3/8c18eaf9acdf8531a70c75438756cdea/transformed/jetified-flipper-0.201.0/AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from /home/whistler/Desktop/Github/Offline_Card_Wallet/android/app/src/main/AndroidManifest.xml:3:22-64
+application
+ADDED from /home/whistler/Desktop/Github/Offline_Card_Wallet/android/app/src/main/AndroidManifest.xml:5:5-24:19
+MERGED from /home/whistler/Desktop/Github/Offline_Card_Wallet/android/app/src/main/AndroidManifest.xml:5:5-24:19
+MERGED from /home/whistler/Desktop/Github/Offline_Card_Wallet/android/app/src/main/AndroidManifest.xml:5:5-24:19
+INJECTED from /home/whistler/Desktop/Github/Offline_Card_Wallet/android/app/src/debug/AndroidManifest.xml:5:5-8:50
+MERGED from [com.facebook.react:react-android:0.73.0] /home/whistler/.gradle/caches/transforms-3/03faa2a4590e19618d3d28b49773048c/transformed/jetified-react-android-0.73.0-debug/AndroidManifest.xml:18:5-22:19
+MERGED from [com.facebook.react:react-android:0.73.0] /home/whistler/.gradle/caches/transforms-3/03faa2a4590e19618d3d28b49773048c/transformed/jetified-react-android-0.73.0-debug/AndroidManifest.xml:18:5-22:19
+MERGED from [com.facebook.stetho:stetho:1.6.0] /home/whistler/.gradle/caches/transforms-3/6c861e65f2b0b0416382f2c05a4c8a93/transformed/jetified-stetho-1.6.0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho:1.6.0] /home/whistler/.gradle/caches/transforms-3/6c861e65f2b0b0416382f2c05a4c8a93/transformed/jetified-stetho-1.6.0/AndroidManifest.xml:11:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/whistler/.gradle/caches/transforms-3/8e5fbcaede1bd6615519659941a6cc0c/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/whistler/.gradle/caches/transforms-3/8e5fbcaede1bd6615519659941a6cc0c/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.12.0] /home/whistler/.gradle/caches/transforms-3/c98196d06080423d44b7c8ee4283f478/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] /home/whistler/.gradle/caches/transforms-3/c98196d06080423d44b7c8ee4283f478/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/whistler/.gradle/caches/transforms-3/5a35d049f464e77dacca5b20dbd9e312/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/whistler/.gradle/caches/transforms-3/5a35d049f464e77dacca5b20dbd9e312/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/whistler/.gradle/caches/transforms-3/fdb4a608a1f4a8def02341e8bd08ec90/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/whistler/.gradle/caches/transforms-3/fdb4a608a1f4a8def02341e8bd08ec90/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/whistler/.gradle/caches/transforms-3/2287b5d2f6576c27372516b4f974d36a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/whistler/.gradle/caches/transforms-3/2287b5d2f6576c27372516b4f974d36a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.facebook.soloader:soloader:0.10.5] /home/whistler/.gradle/caches/transforms-3/fd74371e7633c57895c1e6c4c217351b/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:11:5-15:19
+MERGED from [com.facebook.soloader:soloader:0.10.5] /home/whistler/.gradle/caches/transforms-3/fd74371e7633c57895c1e6c4c217351b/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:11:5-15:19
+	android:extractNativeLibs
+		INJECTED from /home/whistler/Desktop/Github/Offline_Card_Wallet/android/app/src/debug/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] /home/whistler/.gradle/caches/transforms-3/c98196d06080423d44b7c8ee4283f478/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
+	android:label
+		ADDED from /home/whistler/Desktop/Github/Offline_Card_Wallet/android/app/src/main/AndroidManifest.xml:7:7-39
+		ADDED from /home/whistler/Desktop/Github/Offline_Card_Wallet/android/app/src/main/AndroidManifest.xml:7:7-39
+	tools:ignore
+		ADDED from /home/whistler/Desktop/Github/Offline_Card_Wallet/android/app/src/debug/AndroidManifest.xml:8:9-48
+	android:roundIcon
+		ADDED from /home/whistler/Desktop/Github/Offline_Card_Wallet/android/app/src/main/AndroidManifest.xml:9:7-52
+		ADDED from /home/whistler/Desktop/Github/Offline_Card_Wallet/android/app/src/main/AndroidManifest.xml:9:7-52
+	tools:targetApi
+		ADDED from /home/whistler/Desktop/Github/Offline_Card_Wallet/android/app/src/debug/AndroidManifest.xml:7:9-29
+	android:icon
+		ADDED from /home/whistler/Desktop/Github/Offline_Card_Wallet/android/app/src/main/AndroidManifest.xml:8:7-41
+		ADDED from /home/whistler/Desktop/Github/Offline_Card_Wallet/android/app/src/main/AndroidManifest.xml:8:7-41
+	android:allowBackup
+		ADDED from /home/whistler/Desktop/Github/Offline_Card_Wallet/android/app/src/main/AndroidManifest.xml:10:7-34
+		ADDED from /home/whistler/Desktop/Github/Offline_Card_Wallet/android/app/src/main/AndroidManifest.xml:10:7-34
+	android:theme
+		ADDED from /home/whistler/Desktop/Github/Offline_Card_Wallet/android/app/src/main/AndroidManifest.xml:11:7-38
+		ADDED from /home/whistler/Desktop/Github/Offline_Card_Wallet/android/app/src/main/AndroidManifest.xml:11:7-38
+	android:usesCleartextTraffic
+		ADDED from /home/whistler/Desktop/Github/Offline_Card_Wallet/android/app/src/debug/AndroidManifest.xml:6:9-44
+	android:name
+		ADDED from /home/whistler/Desktop/Github/Offline_Card_Wallet/android/app/src/main/AndroidManifest.xml:6:7-38
+		ADDED from /home/whistler/Desktop/Github/Offline_Card_Wallet/android/app/src/main/AndroidManifest.xml:6:7-38
+activity#com.offlinecardwallet.MainActivity
+ADDED from /home/whistler/Desktop/Github/Offline_Card_Wallet/android/app/src/main/AndroidManifest.xml:12:7-23:18
+	android:label
+		ADDED from /home/whistler/Desktop/Github/Offline_Card_Wallet/android/app/src/main/AndroidManifest.xml:14:9-41
+	android:launchMode
+		ADDED from /home/whistler/Desktop/Github/Offline_Card_Wallet/android/app/src/main/AndroidManifest.xml:16:9-40
+	android:windowSoftInputMode
+		ADDED from /home/whistler/Desktop/Github/Offline_Card_Wallet/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:exported
+		ADDED from /home/whistler/Desktop/Github/Offline_Card_Wallet/android/app/src/main/AndroidManifest.xml:18:9-32
+	android:configChanges
+		ADDED from /home/whistler/Desktop/Github/Offline_Card_Wallet/android/app/src/main/AndroidManifest.xml:15:9-118
+	android:name
+		ADDED from /home/whistler/Desktop/Github/Offline_Card_Wallet/android/app/src/main/AndroidManifest.xml:13:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/whistler/Desktop/Github/Offline_Card_Wallet/android/app/src/main/AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from /home/whistler/Desktop/Github/Offline_Card_Wallet/android/app/src/main/AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from /home/whistler/Desktop/Github/Offline_Card_Wallet/android/app/src/main/AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/whistler/Desktop/Github/Offline_Card_Wallet/android/app/src/main/AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from /home/whistler/Desktop/Github/Offline_Card_Wallet/android/app/src/main/AndroidManifest.xml:21:23-70
+uses-sdk
+INJECTED from /home/whistler/Desktop/Github/Offline_Card_Wallet/android/app/src/debug/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/whistler/Desktop/Github/Offline_Card_Wallet/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/whistler/Desktop/Github/Offline_Card_Wallet/android/app/src/debug/AndroidManifest.xml
+MERGED from [com.facebook.react:flipper-integration:0.73.0] /home/whistler/.gradle/caches/transforms-3/d7b41176eb9192e966aa89f730c9211e/transformed/jetified-flipper-integration-0.73.0-debug/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:flipper-integration:0.73.0] /home/whistler/.gradle/caches/transforms-3/d7b41176eb9192e966aa89f730c9211e/transformed/jetified-flipper-integration-0.73.0-debug/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-android:0.73.0] /home/whistler/.gradle/caches/transforms-3/03faa2a4590e19618d3d28b49773048c/transformed/jetified-react-android-0.73.0-debug/AndroidManifest.xml:10:5-44
+MERGED from [com.facebook.react:react-android:0.73.0] /home/whistler/.gradle/caches/transforms-3/03faa2a4590e19618d3d28b49773048c/transformed/jetified-react-android-0.73.0-debug/AndroidManifest.xml:10:5-44
+MERGED from [com.facebook.fresco:flipper-fresco-plugin:3.1.3] /home/whistler/.gradle/caches/transforms-3/2fb72019e7a4b8682d73880c36bebdf1/transformed/jetified-flipper-fresco-plugin-3.1.3/AndroidManifest.xml:11:5-44
+MERGED from [com.facebook.fresco:flipper-fresco-plugin:3.1.3] /home/whistler/.gradle/caches/transforms-3/2fb72019e7a4b8682d73880c36bebdf1/transformed/jetified-flipper-fresco-plugin-3.1.3/AndroidManifest.xml:11:5-44
+MERGED from [com.facebook.fresco:flipper:3.1.3] /home/whistler/.gradle/caches/transforms-3/0b0f535d6696fbd9cb99b66f79662da9/transformed/jetified-flipper-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:flipper:3.1.3] /home/whistler/.gradle/caches/transforms-3/0b0f535d6696fbd9cb99b66f79662da9/transformed/jetified-flipper-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:fresco:3.1.3] /home/whistler/.gradle/caches/transforms-3/da8b30e5a8fa9d3eea0929efbd0947f4/transformed/jetified-fresco-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:fresco:3.1.3] /home/whistler/.gradle/caches/transforms-3/da8b30e5a8fa9d3eea0929efbd0947f4/transformed/jetified-fresco-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:3.1.3] /home/whistler/.gradle/caches/transforms-3/6d60aff4839ce560716e524280f52708/transformed/jetified-imagepipeline-okhttp3-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:3.1.3] /home/whistler/.gradle/caches/transforms-3/6d60aff4839ce560716e524280f52708/transformed/jetified-imagepipeline-okhttp3-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:drawee:3.1.3] /home/whistler/.gradle/caches/transforms-3/2f39c9934c75cb634ef30baba640678c/transformed/jetified-drawee-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:drawee:3.1.3] /home/whistler/.gradle/caches/transforms-3/2f39c9934c75cb634ef30baba640678c/transformed/jetified-drawee-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:nativeimagefilters:3.1.3] /home/whistler/.gradle/caches/transforms-3/a30e69ae0e95b3eb9b9642a653aa6f9a/transformed/jetified-nativeimagefilters-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:nativeimagefilters:3.1.3] /home/whistler/.gradle/caches/transforms-3/a30e69ae0e95b3eb9b9642a653aa6f9a/transformed/jetified-nativeimagefilters-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:memory-type-native:3.1.3] /home/whistler/.gradle/caches/transforms-3/37a1b3fc5f1eae40f9168033c214248a/transformed/jetified-memory-type-native-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:memory-type-native:3.1.3] /home/whistler/.gradle/caches/transforms-3/37a1b3fc5f1eae40f9168033c214248a/transformed/jetified-memory-type-native-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:memory-type-java:3.1.3] /home/whistler/.gradle/caches/transforms-3/0475bb79bcd7f407085bdb5bb43ff8b9/transformed/jetified-memory-type-java-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:memory-type-java:3.1.3] /home/whistler/.gradle/caches/transforms-3/0475bb79bcd7f407085bdb5bb43ff8b9/transformed/jetified-memory-type-java-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline-native:3.1.3] /home/whistler/.gradle/caches/transforms-3/3aa7352e6e19b2863a85b240a0037b03/transformed/jetified-imagepipeline-native-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline-native:3.1.3] /home/whistler/.gradle/caches/transforms-3/3aa7352e6e19b2863a85b240a0037b03/transformed/jetified-imagepipeline-native-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:memory-type-ashmem:3.1.3] /home/whistler/.gradle/caches/transforms-3/6197422ed94b2c39d52f73b2b28f990b/transformed/jetified-memory-type-ashmem-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:memory-type-ashmem:3.1.3] /home/whistler/.gradle/caches/transforms-3/6197422ed94b2c39d52f73b2b28f990b/transformed/jetified-memory-type-ashmem-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline:3.1.3] /home/whistler/.gradle/caches/transforms-3/aac6fc59eb69214b10ab9701c39e4f60/transformed/jetified-imagepipeline-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline:3.1.3] /home/whistler/.gradle/caches/transforms-3/aac6fc59eb69214b10ab9701c39e4f60/transformed/jetified-imagepipeline-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:nativeimagetranscoder:3.1.3] /home/whistler/.gradle/caches/transforms-3/bedd1c2de22d15f38017c3b70ffe1154/transformed/jetified-nativeimagetranscoder-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:nativeimagetranscoder:3.1.3] /home/whistler/.gradle/caches/transforms-3/bedd1c2de22d15f38017c3b70ffe1154/transformed/jetified-nativeimagetranscoder-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline-base:3.1.3] /home/whistler/.gradle/caches/transforms-3/3b217f595e34fe29b8602eee9ad2af10/transformed/jetified-imagepipeline-base-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline-base:3.1.3] /home/whistler/.gradle/caches/transforms-3/3b217f595e34fe29b8602eee9ad2af10/transformed/jetified-imagepipeline-base-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:middleware:3.1.3] /home/whistler/.gradle/caches/transforms-3/0a1be84a003e06ef18db9baf96e7e682/transformed/jetified-middleware-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:middleware:3.1.3] /home/whistler/.gradle/caches/transforms-3/0a1be84a003e06ef18db9baf96e7e682/transformed/jetified-middleware-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:ui-common:3.1.3] /home/whistler/.gradle/caches/transforms-3/ced4076978eb7faf434d7b2f86e5c2c1/transformed/jetified-ui-common-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:ui-common:3.1.3] /home/whistler/.gradle/caches/transforms-3/ced4076978eb7faf434d7b2f86e5c2c1/transformed/jetified-ui-common-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:soloader:3.1.3] /home/whistler/.gradle/caches/transforms-3/f484e0b9ba576f2df450edaf4fac0f0f/transformed/jetified-soloader-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:soloader:3.1.3] /home/whistler/.gradle/caches/transforms-3/f484e0b9ba576f2df450edaf4fac0f0f/transformed/jetified-soloader-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:fbcore:3.1.3] /home/whistler/.gradle/caches/transforms-3/0b3a013bc93f27bf12c8b3ddfa6013b2/transformed/jetified-fbcore-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:fbcore:3.1.3] /home/whistler/.gradle/caches/transforms-3/0b3a013bc93f27bf12c8b3ddfa6013b2/transformed/jetified-fbcore-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.201.0] /home/whistler/.gradle/caches/transforms-3/dca29ad805e0d9e74497f9afc6e21b7c/transformed/jetified-flipper-network-plugin-0.201.0/AndroidManifest.xml:11:5-44
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.201.0] /home/whistler/.gradle/caches/transforms-3/dca29ad805e0d9e74497f9afc6e21b7c/transformed/jetified-flipper-network-plugin-0.201.0/AndroidManifest.xml:11:5-44
+MERGED from [com.facebook.flipper:flipper:0.201.0] /home/whistler/.gradle/caches/transforms-3/8c18eaf9acdf8531a70c75438756cdea/transformed/jetified-flipper-0.201.0/AndroidManifest.xml:11:5-44
+MERGED from [com.facebook.flipper:flipper:0.201.0] /home/whistler/.gradle/caches/transforms-3/8c18eaf9acdf8531a70c75438756cdea/transformed/jetified-flipper-0.201.0/AndroidManifest.xml:11:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/whistler/.gradle/caches/transforms-3/9f8a700ed4ebec175117c85f47975d1e/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/whistler/.gradle/caches/transforms-3/9f8a700ed4ebec175117c85f47975d1e/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.stetho:stetho:1.6.0] /home/whistler/.gradle/caches/transforms-3/6c861e65f2b0b0416382f2c05a4c8a93/transformed/jetified-stetho-1.6.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho:1.6.0] /home/whistler/.gradle/caches/transforms-3/6c861e65f2b0b0416382f2c05a4c8a93/transformed/jetified-stetho-1.6.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/whistler/.gradle/caches/transforms-3/ba08c597162db49f49e3d1065f543c9d/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/whistler/.gradle/caches/transforms-3/ba08c597162db49f49e3d1065f543c9d/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] /home/whistler/.gradle/caches/transforms-3/c42c8675cbfcc87371889622ed3ed2dc/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/whistler/.gradle/caches/transforms-3/c42c8675cbfcc87371889622ed3ed2dc/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] /home/whistler/.gradle/caches/transforms-3/ff7ef3c4ac2a8412542a0e6bbe58c7cd/transformed/jetified-activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] /home/whistler/.gradle/caches/transforms-3/ff7ef3c4ac2a8412542a0e6bbe58c7cd/transformed/jetified-activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/whistler/.gradle/caches/transforms-3/086a3af4e4f4047c50b424c1c5bf93f3/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/whistler/.gradle/caches/transforms-3/086a3af4e4f4047c50b424c1c5bf93f3/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /home/whistler/.gradle/caches/transforms-3/d5031234f46143d5d8ca43480166bc30/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /home/whistler/.gradle/caches/transforms-3/d5031234f46143d5d8ca43480166bc30/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/whistler/.gradle/caches/transforms-3/af183c969f10450a61dbf0ec48a4b914/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/whistler/.gradle/caches/transforms-3/af183c969f10450a61dbf0ec48a4b914/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.12.0] /home/whistler/.gradle/caches/transforms-3/dcf58e3be79b47949a234a0de1c388fa/transformed/jetified-core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] /home/whistler/.gradle/caches/transforms-3/dcf58e3be79b47949a234a0de1c388fa/transformed/jetified-core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.autofill:autofill:1.1.0] /home/whistler/.gradle/caches/transforms-3/8dda1d601df2c028398c71e097ae45d3/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /home/whistler/.gradle/caches/transforms-3/8dda1d601df2c028398c71e097ae45d3/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /home/whistler/.gradle/caches/transforms-3/7059b4731f793b605ce145f35a576a4e/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /home/whistler/.gradle/caches/transforms-3/7059b4731f793b605ce145f35a576a4e/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/whistler/.gradle/caches/transforms-3/22bc0171d5ae6e5f1a3a1f7356187e22/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/whistler/.gradle/caches/transforms-3/22bc0171d5ae6e5f1a3a1f7356187e22/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/whistler/.gradle/caches/transforms-3/c33087c8dd19c8f10596dfee15edcb86/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/whistler/.gradle/caches/transforms-3/c33087c8dd19c8f10596dfee15edcb86/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/whistler/.gradle/caches/transforms-3/8e5fbcaede1bd6615519659941a6cc0c/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/whistler/.gradle/caches/transforms-3/8e5fbcaede1bd6615519659941a6cc0c/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/whistler/.gradle/caches/transforms-3/4c7903c5ec9502a299e9f88cf8ccc2ec/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/whistler/.gradle/caches/transforms-3/4c7903c5ec9502a299e9f88cf8ccc2ec/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/whistler/.gradle/caches/transforms-3/8d0ced2806473cef015c469df06f6aa6/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/whistler/.gradle/caches/transforms-3/8d0ced2806473cef015c469df06f6aa6/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/whistler/.gradle/caches/transforms-3/51ab56574e57b719bcfe6df7bea93e7a/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/whistler/.gradle/caches/transforms-3/51ab56574e57b719bcfe6df7bea93e7a/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/whistler/.gradle/caches/transforms-3/8205963242c9453fe153d2b96438837d/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/whistler/.gradle/caches/transforms-3/8205963242c9453fe153d2b96438837d/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] /home/whistler/.gradle/caches/transforms-3/c98196d06080423d44b7c8ee4283f478/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] /home/whistler/.gradle/caches/transforms-3/c98196d06080423d44b7c8ee4283f478/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.react:hermes-android:0.73.0] /home/whistler/.gradle/caches/transforms-3/913293d54675b3a5c3849184f5e9c591/transformed/jetified-hermes-android-0.73.0-debug/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:hermes-android:0.73.0] /home/whistler/.gradle/caches/transforms-3/913293d54675b3a5c3849184f5e9c591/transformed/jetified-hermes-android-0.73.0-debug/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/whistler/.gradle/caches/transforms-3/6a9ac9ca1ad9941560ec18570b1acb42/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/whistler/.gradle/caches/transforms-3/6a9ac9ca1ad9941560ec18570b1acb42/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.0] /home/whistler/.gradle/caches/transforms-3/5d5878dc56010d6ca131ea793237f0e1/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /home/whistler/.gradle/caches/transforms-3/5d5878dc56010d6ca131ea793237f0e1/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/whistler/.gradle/caches/transforms-3/5a35d049f464e77dacca5b20dbd9e312/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/whistler/.gradle/caches/transforms-3/5a35d049f464e77dacca5b20dbd9e312/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/whistler/.gradle/caches/transforms-3/fdb4a608a1f4a8def02341e8bd08ec90/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/whistler/.gradle/caches/transforms-3/fdb4a608a1f4a8def02341e8bd08ec90/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.1.0] /home/whistler/.gradle/caches/transforms-3/f617788c864438c3d52006d5cea894a6/transformed/jetified-tracing-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.1.0] /home/whistler/.gradle/caches/transforms-3/f617788c864438c3d52006d5cea894a6/transformed/jetified-tracing-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/whistler/.gradle/caches/transforms-3/26095af3067035137e7ece2b3cffe3ad/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/whistler/.gradle/caches/transforms-3/26095af3067035137e7ece2b3cffe3ad/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/whistler/.gradle/caches/transforms-3/2287b5d2f6576c27372516b4f974d36a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/whistler/.gradle/caches/transforms-3/2287b5d2f6576c27372516b4f974d36a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /home/whistler/.gradle/caches/transforms-3/efc06b8c7db3bb25f02bb546006b1b38/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /home/whistler/.gradle/caches/transforms-3/efc06b8c7db3bb25f02bb546006b1b38/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/whistler/.gradle/caches/transforms-3/5e5763ae3ac10334ff0810cd7da403a5/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/whistler/.gradle/caches/transforms-3/5e5763ae3ac10334ff0810cd7da403a5/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] /home/whistler/.gradle/caches/transforms-3/173d140ee485538e531e8f8e273d53c8/transformed/sqlite-framework-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] /home/whistler/.gradle/caches/transforms-3/173d140ee485538e531e8f8e273d53c8/transformed/sqlite-framework-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/whistler/.gradle/caches/transforms-3/4b4b952f9c20adfb89d29ca04693ee54/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/whistler/.gradle/caches/transforms-3/4b4b952f9c20adfb89d29ca04693ee54/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /home/whistler/.gradle/caches/transforms-3/cb9c5e81b9d14c0475703f0f6a6b82cc/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /home/whistler/.gradle/caches/transforms-3/cb9c5e81b9d14c0475703f0f6a6b82cc/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/whistler/.gradle/caches/transforms-3/019a334a56027351c11f279524856d90/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/whistler/.gradle/caches/transforms-3/019a334a56027351c11f279524856d90/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.2.0] /home/whistler/.gradle/caches/transforms-3/1e7ba3e13392d187787ed155384c6be8/transformed/sqlite-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.2.0] /home/whistler/.gradle/caches/transforms-3/1e7ba3e13392d187787ed155384c6be8/transformed/sqlite-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fbjni:fbjni:0.5.1] /home/whistler/.gradle/caches/transforms-3/5da72c8d4c35c1eb96033e546e2c667f/transformed/jetified-fbjni-0.5.1/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fbjni:fbjni:0.5.1] /home/whistler/.gradle/caches/transforms-3/5da72c8d4c35c1eb96033e546e2c667f/transformed/jetified-fbjni-0.5.1/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.soloader:soloader:0.10.5] /home/whistler/.gradle/caches/transforms-3/fd74371e7633c57895c1e6c4c217351b/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.5] /home/whistler/.gradle/caches/transforms-3/fd74371e7633c57895c1e6c4c217351b/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.ndk.thirdparty:openssl:1.1.1l-beta-1] /home/whistler/.gradle/caches/transforms-3/a25417b5b0a73e66eec7e2885102393f/transformed/jetified-openssl-1.1.1l-beta-1/AndroidManifest.xml:2:2-70
+MERGED from [com.android.ndk.thirdparty:openssl:1.1.1l-beta-1] /home/whistler/.gradle/caches/transforms-3/a25417b5b0a73e66eec7e2885102393f/transformed/jetified-openssl-1.1.1l-beta-1/AndroidManifest.xml:2:2-70
+	android:targetSdkVersion
+		INJECTED from /home/whistler/Desktop/Github/Offline_Card_Wallet/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/whistler/Desktop/Github/Offline_Card_Wallet/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from [com.facebook.react:react-android:0.73.0] /home/whistler/.gradle/caches/transforms-3/03faa2a4590e19618d3d28b49773048c/transformed/jetified-react-android-0.73.0-debug/AndroidManifest.xml:16:5-78
+	android:name
+		ADDED from [com.facebook.react:react-android:0.73.0] /home/whistler/.gradle/caches/transforms-3/03faa2a4590e19618d3d28b49773048c/transformed/jetified-react-android-0.73.0-debug/AndroidManifest.xml:16:22-75
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from [com.facebook.react:react-android:0.73.0] /home/whistler/.gradle/caches/transforms-3/03faa2a4590e19618d3d28b49773048c/transformed/jetified-react-android-0.73.0-debug/AndroidManifest.xml:19:9-21:40
+	android:exported
+		ADDED from [com.facebook.react:react-android:0.73.0] /home/whistler/.gradle/caches/transforms-3/03faa2a4590e19618d3d28b49773048c/transformed/jetified-react-android-0.73.0-debug/AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from [com.facebook.react:react-android:0.73.0] /home/whistler/.gradle/caches/transforms-3/03faa2a4590e19618d3d28b49773048c/transformed/jetified-react-android-0.73.0-debug/AndroidManifest.xml:20:13-77
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.201.0] /home/whistler/.gradle/caches/transforms-3/8c18eaf9acdf8531a70c75438756cdea/transformed/jetified-flipper-0.201.0/AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.201.0] /home/whistler/.gradle/caches/transforms-3/8c18eaf9acdf8531a70c75438756cdea/transformed/jetified-flipper-0.201.0/AndroidManifest.xml:14:22-73
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /home/whistler/.gradle/caches/transforms-3/8e5fbcaede1bd6615519659941a6cc0c/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/whistler/.gradle/caches/transforms-3/5a35d049f464e77dacca5b20dbd9e312/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/whistler/.gradle/caches/transforms-3/5a35d049f464e77dacca5b20dbd9e312/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/whistler/.gradle/caches/transforms-3/fdb4a608a1f4a8def02341e8bd08ec90/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/whistler/.gradle/caches/transforms-3/fdb4a608a1f4a8def02341e8bd08ec90/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/whistler/.gradle/caches/transforms-3/8e5fbcaede1bd6615519659941a6cc0c/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/whistler/.gradle/caches/transforms-3/8e5fbcaede1bd6615519659941a6cc0c/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/whistler/.gradle/caches/transforms-3/8e5fbcaede1bd6615519659941a6cc0c/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/whistler/.gradle/caches/transforms-3/8e5fbcaede1bd6615519659941a6cc0c/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /home/whistler/.gradle/caches/transforms-3/8e5fbcaede1bd6615519659941a6cc0c/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/whistler/.gradle/caches/transforms-3/8e5fbcaede1bd6615519659941a6cc0c/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/whistler/.gradle/caches/transforms-3/8e5fbcaede1bd6615519659941a6cc0c/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /home/whistler/.gradle/caches/transforms-3/c98196d06080423d44b7c8ee4283f478/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /home/whistler/.gradle/caches/transforms-3/c98196d06080423d44b7c8ee4283f478/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /home/whistler/.gradle/caches/transforms-3/c98196d06080423d44b7c8ee4283f478/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+permission#com.offlinecardwallet.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /home/whistler/.gradle/caches/transforms-3/c98196d06080423d44b7c8ee4283f478/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /home/whistler/.gradle/caches/transforms-3/c98196d06080423d44b7c8ee4283f478/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /home/whistler/.gradle/caches/transforms-3/c98196d06080423d44b7c8ee4283f478/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /home/whistler/.gradle/caches/transforms-3/c98196d06080423d44b7c8ee4283f478/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /home/whistler/.gradle/caches/transforms-3/c98196d06080423d44b7c8ee4283f478/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+uses-permission#com.offlinecardwallet.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /home/whistler/.gradle/caches/transforms-3/c98196d06080423d44b7c8ee4283f478/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /home/whistler/.gradle/caches/transforms-3/c98196d06080423d44b7c8ee4283f478/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/whistler/.gradle/caches/transforms-3/5a35d049f464e77dacca5b20dbd9e312/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/whistler/.gradle/caches/transforms-3/5a35d049f464e77dacca5b20dbd9e312/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/whistler/.gradle/caches/transforms-3/5a35d049f464e77dacca5b20dbd9e312/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+meta-data#com.facebook.soloader.enabled
+ADDED from [com.facebook.soloader:soloader:0.10.5] /home/whistler/.gradle/caches/transforms-3/fd74371e7633c57895c1e6c4c217351b/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:12:9-14:37
+	android:value
+		ADDED from [com.facebook.soloader:soloader:0.10.5] /home/whistler/.gradle/caches/transforms-3/fd74371e7633c57895c1e6c4c217351b/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:14:13-34
+	android:name
+		ADDED from [com.facebook.soloader:soloader:0.10.5] /home/whistler/.gradle/caches/transforms-3/fd74371e7633c57895c1e6c4c217351b/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:13:13-57
